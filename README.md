@@ -1,6 +1,6 @@
 # Super Mario Bros.
 
-Classic Super Mario Bros. game implemented with Java for CS319-Object-Oriented Software Engineering course.
+Classic Super Mario Bros. game implemented with Java 
 
 ## About game
 
